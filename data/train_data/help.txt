@@ -1,0 +1,4 @@
+Please download the dataset for the training phase from the ZeroDCE++ GitHub repository.
+ZeroDCE++ link: "https://github.com/Li-Chongyi/Zero-DCE_extension"
+Navigate to the `data` repository and use the `train_data` folder for training.
+
